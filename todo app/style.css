@@ -1,0 +1,28 @@
+.form-control{
+    text-align: center !important;
+}
+
+.input-group{
+    width: 50% !important;
+    margin: 10px auto;
+}
+
+.card{
+    margin: 10px auto;
+    width: 50% !important;
+    margin-top: 2%;
+}
+
+.list-group-item{
+    width: 50%;
+    margin: 10px auto !important;
+    text-align: center;
+}
+
+.list-group-item:hover{
+    background-color: #FFFFC3 !important;
+}
+
+body{
+    background-color: black !important;
+}

@@ -1,0 +1,21 @@
+.main{
+    color: white;
+    /* display: inline; */
+    /* justify-content: space-evenly; */
+}
+*{
+    background-color: black;
+}
+button{
+    color: white;
+    background-color: rgb(0, 140, 255);
+}
+.btn{
+    text-align: center;
+    padding: 10px;
+}
+#min,#sec,#msec{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
